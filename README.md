@@ -1,4 +1,5 @@
 
+Includes fix mentioned in https://github.com/katzer/cordova-plugin-local-notifications/issues/1541
 <p align="left"><b><a href="https://github.com/katzer/cordova-plugin-local-notifications/tree/example-x">SAMPLE APP</a> :point_right:</b></p>
 
 <br>
